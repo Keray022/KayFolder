@@ -1,1 +1,0 @@
-* [yes](docs/articles/yes.md) 
