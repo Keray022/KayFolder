@@ -1,1 +1,1 @@
-* [测试](docs/articles/yes.md) 
+* [yes](docs/articles/yes.md) 
