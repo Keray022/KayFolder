@@ -3,6 +3,7 @@
 * 虚构性写作
 	* [唯一的陌生人](/articles/stranger.md)
 	* [事务所的雨](/articles/rain.md)
+
 * 非虚构性写作
 	* [禁止张贴的记忆](/articles/memo.md)
 	* [拍灵芝的绝佳日子](/articles/perfect-day.md)
