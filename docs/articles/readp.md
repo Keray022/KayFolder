@@ -1,3 +1,4 @@
+# 哲学阅读指南
 > Jim Pryor发布于其个人网站上的[Guidelines on Reading Philosophy](http://www.jimpryor.net/teaching/guidelines/reading.html)。
 
 你们会在阅读一些文章时感到难以理解。部分是因为它们讨论的是你还不习惯于去思考的抽象概念，它们也可能会使用对你而言很陌生的术语。有时，文章整体论证的东西并不明显；文章可能比较复杂，而你也许得逐字逐句地理顺文章的内容。以下是一些提示，它们能帮助你更容易、更有效地阅读。
