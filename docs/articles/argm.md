@@ -1,3 +1,4 @@
+# 什么是论证?
 > 原文为纽约大学哲学系 [Jim Pryor](http://www.jimpryor.net/) 教授所著，发布在其[个人博客](http://www.jimpryor.net/teaching/vocab/argument.html)上。
 
 **论证**与争吵不同。论证的目标既不是攻击你的对手，也不是打动你的听众；论证的目标在于为你的**结论**提供充分的**理由**，即争论的各方都能接受的理由。
