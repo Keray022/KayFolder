@@ -11,4 +11,3 @@
 	* [对读《叫魂》与《中国法律史》教材](/articles/soulstealers.md)
 * 个人翻译
 	* [什么是论证?](/articles/argm.md)
-	* [哲学阅读指南](/articles/readp.md)
